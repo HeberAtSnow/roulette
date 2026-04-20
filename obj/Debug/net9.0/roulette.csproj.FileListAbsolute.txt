@@ -1,0 +1,14 @@
+/home/engr21/code/roulette/bin/Debug/net9.0/roulette
+/home/engr21/code/roulette/bin/Debug/net9.0/roulette.deps.json
+/home/engr21/code/roulette/bin/Debug/net9.0/roulette.runtimeconfig.json
+/home/engr21/code/roulette/bin/Debug/net9.0/roulette.dll
+/home/engr21/code/roulette/bin/Debug/net9.0/roulette.pdb
+/home/engr21/code/roulette/obj/Debug/net9.0/roulette.GeneratedMSBuildEditorConfig.editorconfig
+/home/engr21/code/roulette/obj/Debug/net9.0/roulette.AssemblyInfoInputs.cache
+/home/engr21/code/roulette/obj/Debug/net9.0/roulette.AssemblyInfo.cs
+/home/engr21/code/roulette/obj/Debug/net9.0/roulette.csproj.CoreCompileInputs.cache
+/home/engr21/code/roulette/obj/Debug/net9.0/roulette.dll
+/home/engr21/code/roulette/obj/Debug/net9.0/refint/roulette.dll
+/home/engr21/code/roulette/obj/Debug/net9.0/roulette.pdb
+/home/engr21/code/roulette/obj/Debug/net9.0/roulette.genruntimeconfig.cache
+/home/engr21/code/roulette/obj/Debug/net9.0/ref/roulette.dll
